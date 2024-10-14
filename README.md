@@ -1,7 +1,7 @@
 # 3D data representation (3dVR Visualization)
 
 # Introduction: 
-3-D data visualization involves the creation of three-dimensional graphical representation of data. It is done by utilizing software to plot the data along three axes. Normally, this provides a better way to understand relationship between different variables and how different variables interact. However, there is a limit to how much information can be gained if we’re only using a computer screen to visualize this data. This project would like to enhance this experience by utilizing VR to enhance the 3-D data visualization experience. However, Utilizing VR in this way would provide many benefits such as Interactive manipulation of the data and graphs, allow for better spatial awareness and an improvement in how this information is presented. 
+3-D data visualization involves the creation of three-dimensional graphical representation of data. It is done by utilizing software to plot the data along three axes. Normally, this provides a better way to understand relationship between different variables and how different variables interact. However, there is a limit to how much information can be gained if we’re only using a computer screen to visualize this data. This project would like to enhance this experience by utilizing VR to enhance the 3-D data visualization experience. Utilizing VR in this way would provide many benefits such as Interactive manipulation of the data and graphs, allow for better spatial awareness and an improvement in how this information is presented. 
 
 # Current State:
 ## Phase 1: 
